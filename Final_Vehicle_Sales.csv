@@ -1,0 +1,101 @@
+,Sale_ID,Date,Customer_Name,Age,Gender,City,Brand,Model,Fuel_Type,Transmission,Vehicle_Type,Price,Quantity,Discount,Sales,Payment_Mode,Profit,Year,Month
+0,V001,2025-05-01,Arun Kumar,28.0,Male,Chennai,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,50000,1850000,Credit Card,1850000,2025.0,5
+1,V002,2025-05-01,Priya,24.0,Female,Coimbatore,Hyundai,Creta,Petrol,Manual,SUV,1450000,1,25000,1450000,UPI,1450000,2025.0,5
+2,V003,2025-07-01,Rahul,35.0,Male,Madurai,Maruti,Baleno,Petrol,Manual,Hatchback,850000,2,10000,850000,Cash,850000,2025.0,7
+3,V004,2025-07-01,Divya,29.0,Female,Trichy,Kia,Seltos,Diesel,Automatic,SUV,1650000,1,30000,1650000,UPI,1650000,2025.0,7
+4,V005,2025-10-01,Karthik,30.0,Male,Chennai,Tata,Nexon,EV,Automatic,SUV,1500000,1,0,1500000,Credit Card,1500000,2025.0,10
+5,V006,2025-10-01,Meena,31.0,Female,Salem,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,15000,950000,UPI,950000,2025.0,10
+6,V007,2025-12-01,Suresh,42.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,100000,4200000,Loan,4200000,2025.0,12
+7,V008,2025-12-01,Anitha,27.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,20000,1450000,Credit Card,1450000,2025.0,12
+8,V009,2025-12-01,Vijay,33.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,2,5000,780000,UPI,780000,2025.0,12
+9,V010,2025-12-01,Sanjay,26.0,Male,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,15000,1250000,Cash,1250000,2025.0,12
+10,V011,2025-12-01,Lakshmi,30.0,Female,Trichy,Tata,Nexon,Petrol,Automatic,SUV,1350000,1,25000,1350000,UPI,1350000,2025.0,12
+11,V012,2025-12-01,Ramesh,45.0,Male,Chennai,Toyota,Corolla,Petrol,Automatic,Sedan,2200000,1,50000,2200000,Credit Card,2200000,2025.0,12
+12,V013,2025-12-01,Swetha,23.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,10000,1100000,UPI,1100000,2025.0,12
+13,V014,2025-12-01,Manoj,38.0,Male,Erode,Ford,Endeavour,Diesel,Automatic,SUV,3800000,1,75000,3800000,Loan,3800000,2025.0,12
+14,V015,2025-12-01,Keerthi,26.0,Female,Coimbatore,Maruti,Alto,Petrol,Manual,Hatchback,550000,2,5000,550000,Cash,550000,2025.0,12
+15,V016,2025-12-01,Gokul,34.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,40000,2100000,Credit Card,2100000,2025.0,12
+16,V017,2025-12-01,Deepa,29.0,Female,Madurai,Honda,Amaze,Petrol,Manual,Sedan,950000,1,10000,950000,UPI,950000,2025.0,12
+17,V018,2025-01-02,Prakash,40.0,Male,Trichy,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,45000,1850000,Loan,1850000,2025.0,1
+18,V019,2025-03-02,Nisha,25.0,Female,Chennai,Kia,Seltos,Petrol,Automatic,SUV,1650000,1,20000,1650000,UPI,1650000,2025.0,3
+19,V020,2025-05-02,Ajay,36.0,Male,Coimbatore,Hyundai,Creta,Diesel,Manual,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,5
+20,V021,2025-07-02,Harish,32.0,Male,Salem,Maruti,Brezza,Petrol,Manual,SUV,1050000,1,10000,1050000,UPI,1050000,2025.0,7
+21,V022,2025-08-02,Revathi,28.0,Female,Chennai,Tata,Punch,EV,Automatic,Hatchback,900000,1,15000,900000,Cash,900000,2025.0,8
+22,V023,2025-10-02,Surya,30.0,Male,Madurai,Kia,Carens,Diesel,Automatic,MPV,1800000,1,35000,1800000,Loan,1800000,2025.0,10
+23,V024,2025-12-02,Anu,27.0,Female,Trichy,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,12000,950000,UPI,950000,2025.0,12
+24,V025,2025-12-02,Bala,39.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,90000,4200000,Credit Card,4200000,2025.0,12
+25,V026,2025-12-02,Divya,29.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,25000,1450000,UPI,1450000,2025.0,12
+26,V027,2025-12-02,Kiran,31.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,Cash,780000,2025.0,12
+27,V028,2025-12-02,Meena,31.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,15000,1100000,UPI,1100000,2025.0,12
+28,V029,2025-12-02,Raj,44.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,50000,2100000,Loan,2100000,2025.0,12
+29,V030,2025-12-02,Shalini,26.0,Female,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,10000,1250000,Credit Card,1250000,2025.0,12
+30,V031,2025-12-02,Arun,28.0,Male,Chennai,Toyota,Innova,diesel,Automatic,SUV,1850000,1,50000,1850000,UPI,1850000,2025.0,12
+31,V032,2025-12-02,Priya,24.0,Female,Coimbatore,HYUNDAI,Creta,Petrol,Manual,suv,1450000,1,25000,1450000,UPI,1450000,2025.0,12
+32,V033,2025-12-02,Rahul,35.0,Male,Madurai,Maruti,Baleno,Petrol,manual,Hatchback,850000,1,10000,850000,Cash,850000,2025.0,12
+33,V034,2025-01-03,Divya,29.0,Female,Trichy,Kia,Seltos,Diesel,Automatic,SUV,1650000,1,30000,1650000,UPI,1650000,2025.0,1
+34,V035,2025-03-03,Karthik,30.0,Male,Chennai,Tata,Nexon,EV,Automatic,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,3
+35,V036,2025-05-03,Meena,31.0,Female,Salem,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,15000,950000,UPI,950000,2025.0,5
+36,V037,2025-07-03,Suresh,42.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,100000,4200000,Loan,4200000,2025.0,7
+37,V038,2025-08-03,Anitha,27.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,20000,1450000,Credit Card,1450000,2025.0,8
+38,V039,2025-10-03,Vijay,33.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,UPI,780000,2025.0,10
+39,V040,2025-12-03,Sanjay,26.0,Male,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,15000,1250000,Cash,1250000,2025.0,12
+40,V041,2025-12-03,Lakshmi,30.0,Female,Trichy,Tata,Nexon,Petrol,Automatic,SUV,1350000,1,25000,1350000,UPI,1350000,2025.0,12
+41,V042,2025-12-03,Ramesh,45.0,Male,Chennai,Toyota,Corolla,Petrol,Automatic,Sedan,2200000,1,50000,2200000,Credit Card,2200000,2025.0,12
+42,V043,2025-12-03,Swetha,23.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,10000,1100000,UPI,1100000,2025.0,12
+43,V044,2025-12-03,Manoj,38.0,Male,Erode,Ford,Endeavour,Diesel,Automatic,SUV,3800000,1,75000,3800000,Loan,3800000,2025.0,12
+44,V045,2025-12-03,Keerthi,26.0,Female,Coimbatore,Maruti,Alto,Petrol,Manual,Hatchback,550000,1,5000,550000,Cash,550000,2025.0,12
+45,V046,2025-12-03,Gokul,34.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,40000,2100000,Credit Card,2100000,2025.0,12
+46,V047,2025-12-03,Deepa,29.0,Female,Madurai,Honda,Amaze,Petrol,Manual,Sedan,950000,1,10000,950000,UPI,950000,2025.0,12
+47,V048,2025-12-03,Prakash,40.0,Male,Trichy,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,45000,1850000,Loan,1850000,2025.0,12
+48,V049,2025-12-03,Nisha,25.0,Female,Chennai,Kia,Seltos,Petrol,Automatic,SUV,1650000,1,20000,1650000,UPI,1650000,2025.0,12
+49,V050,2025-12-03,Ajay,36.0,Male,Coimbatore,Hyundai,Creta,Diesel,Manual,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,12
+50,V051,2025-01-04,Harish,32.0,Male,Salem,Maruti,Brezza,Petrol,Manual,SUV,1050000,1,10000,1050000,UPI,1050000,2025.0,1
+51,V052,2025-03-04,Revathi,28.0,Female,Chennai,Tata,Punch,EV,Automatic,Hatchback,900000,1,15000,900000,Cash,900000,2025.0,3
+52,V053,2025-05-04,Surya,30.0,Male,Madurai,Kia,Carens,Diesel,Automatic,MPV,1800000,1,35000,1800000,Loan,1800000,2025.0,5
+53,V054,2025-07-04,Anu,27.0,Female,Trichy,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,12000,950000,UPI,950000,2025.0,7
+54,V055,2025-09-04,Bala,39.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,90000,4200000,Credit Card,4200000,2025.0,9
+55,V056,2025-11-04,Divya,29.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,25000,1450000,UPI,1450000,2025.0,11
+56,V057,2025-11-04,Kiran,31.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,Cash,780000,2025.0,11
+57,V058,2025-11-04,Meena,31.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,15000,1100000,UPI,1100000,2025.0,11
+58,V059,2025-11-04,Raj,44.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,50000,2100000,Loan,2100000,2025.0,11
+59,V060,2025-11-04,Shalini,26.0,Female,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,10000,1250000,Credit Card,1250000,2025.0,11
+60,V061,2025-11-04,Arun,28.0,Male,Chennai,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,50000,1850000,UPI,1850000,2025.0,11
+61,V062,2025-11-04,Priya,24.0,Female,Coimbatore,Hyundai,Creta,Petrol,Manual,SUV,1450000,1,25000,1450000,UPI,1450000,2025.0,11
+62,V063,2025-11-04,Rahul,35.0,Male,Madurai,Maruti,Baleno,Petrol,Manual,Hatchback,850000,1,10000,850000,Cash,850000,2025.0,11
+63,V064,2025-11-04,Divya,29.0,Female,Trichy,Kia,Seltos,Diesel,Automatic,SUV,1650000,1,30000,1650000,UPI,1650000,2025.0,11
+64,V065,2025-11-04,Karthik,30.0,Male,Chennai,Tata,Nexon,EV,Automatic,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,11
+65,V066,2025-01-05,Meena,31.0,Female,Salem,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,15000,950000,UPI,950000,2025.0,1
+66,V067,2025-03-05,Suresh,42.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,100000,4200000,Loan,4200000,2025.0,3
+67,V068,2025-05-05,Anitha,27.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,20000,1450000,Credit Card,1450000,2025.0,5
+68,V069,2025-07-05,Vijay,33.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,UPI,780000,2025.0,7
+69,V070,2025-09-05,Sanjay,26.0,Male,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,15000,1250000,Cash,1250000,2025.0,9
+70,V071,2025-11-05,Lakshmi,30.0,Female,Trichy,Tata,Nexon,Petrol,Automatic,SUV,1350000,1,25000,1350000,UPI,1350000,2025.0,11
+71,V072,2025-11-05,Ramesh,45.0,Male,Chennai,Toyota,Corolla,Petrol,Automatic,Sedan,2200000,1,50000,2200000,Credit Card,2200000,2025.0,11
+72,V073,2025-11-05,Swetha,23.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,10000,1100000,UPI,1100000,2025.0,11
+73,V074,2025-11-05,Manoj,38.0,Male,Erode,Ford,Endeavour,Diesel,Automatic,SUV,3800000,1,75000,3800000,Loan,3800000,2025.0,11
+74,V075,2025-11-05,Keerthi,26.0,Female,Coimbatore,Maruti,Alto,Petrol,Manual,Hatchback,550000,1,5000,550000,Cash,550000,2025.0,11
+75,V076,2025-11-05,Gokul,34.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,40000,2100000,Credit Card,2100000,2025.0,11
+76,V077,2025-11-05,Deepa,29.0,Female,Madurai,Honda,Amaze,Petrol,Manual,Sedan,950000,1,10000,950000,UPI,950000,2025.0,11
+77,V078,2025-11-05,Prakash,40.0,Male,Trichy,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,45000,1850000,Loan,1850000,2025.0,11
+78,V079,2025-11-05,Nisha,25.0,Female,Chennai,Kia,Seltos,Petrol,Automatic,SUV,1650000,1,20000,1650000,UPI,1650000,2025.0,11
+79,V080,2025-11-05,Ajay,36.0,Male,Coimbatore,Hyundai,Creta,Diesel,Manual,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,11
+80,V081,2025-01-06,Harish,32.0,Male,Salem,Maruti,Brezza,Petrol,Manual,SUV,1050000,1,10000,1050000,UPI,1050000,2025.0,1
+81,V082,2025-03-06,Revathi,28.0,Female,Chennai,Tata,Punch,EV,Automatic,Hatchback,900000,1,15000,900000,Cash,900000,2025.0,3
+82,V083,2025-05-06,Surya,30.0,Male,Madurai,Kia,Carens,Diesel,Automatic,MPV,1800000,1,35000,1800000,Loan,1800000,2025.0,5
+83,V084,2025-07-06,Anu,27.0,Female,Trichy,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,12000,950000,UPI,950000,2025.0,7
+84,V085,2025-09-06,Bala,39.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,90000,4200000,Credit Card,4200000,2025.0,9
+85,V086,2025-11-06,Divya,29.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,25000,1450000,UPI,1450000,2025.0,11
+86,V087,2025-11-06,Kiran,31.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,Cash,780000,2025.0,11
+87,V088,2025-11-06,Meena,31.0,Female,Salem,Hyundai,Venue,Petrol,Manual,SUV,1100000,1,15000,1100000,UPI,1100000,2025.0,11
+88,V089,2025-11-06,Raj,44.0,Male,Chennai,Tata,Harrier,Diesel,Automatic,SUV,2100000,1,50000,2100000,Loan,2100000,2025.0,11
+89,V090,2025-11-06,Shalini,26.0,Female,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,10000,1250000,Credit Card,1250000,2025.0,11
+90,V091,2025-11-06,Arun,28.0,Male,Chennai,Toyota,Innova,Diesel,Automatic,SUV,1850000,1,50000,1850000,UPI,1850000,2025.0,11
+91,V092,2025-11-06,Priya,24.0,Female,Coimbatore,Hyundai,Creta,Petrol,Manual,SUV,1450000,1,25000,1450000,UPI,1450000,2025.0,11
+92,V093,2025-11-06,Rahul,35.0,Male,Madurai,Maruti,Baleno,Petrol,Manual,Hatchback,850000,1,10000,850000,Cash,850000,2025.0,11
+93,V094,2025-11-06,Divya,29.0,Female,Trichy,Kia,Seltos,Diesel,Automatic,SUV,1650000,1,30000,1650000,UPI,1650000,2025.0,11
+94,V095,2025-11-06,Karthik,30.0,Male,Chennai,Tata,Nexon,EV,Automatic,SUV,1500000,1,25000,1500000,Credit Card,1500000,2025.0,11
+95,V096,2025-01-07,Meena,31.0,Female,Salem,Hyundai,i20,Petrol,Manual,Hatchback,950000,1,15000,950000,UPI,950000,2025.0,1
+96,V097,2025-03-07,Suresh,42.0,Male,Erode,Toyota,Fortuner,Diesel,Automatic,SUV,4200000,1,100000,4200000,Loan,4200000,2025.0,3
+97,V098,2025-05-07,Anitha,27.0,Female,Chennai,Honda,City,Petrol,CVT,Sedan,1450000,1,20000,1450000,Credit Card,1450000,2025.0,5
+98,V099,2025-07-07,Vijay,33.0,Male,Coimbatore,Maruti,Swift,Petrol,Manual,Hatchback,780000,1,5000,780000,UPI,780000,2025.0,7
+99,V100,2025-09-07,Sanjay,26.0,Male,Madurai,Kia,Sonet,Diesel,Manual,SUV,1250000,1,15000,1250000,Cash,1250000,2025.0,9
